@@ -1,11 +1,11 @@
-<h1 align="center">✨ ss-gallery-carousel-dots</h1>
+<h1 align="left">✨ ss-gallery-carousel-dots</h1>
 
-<p align="center">
+<p align="left">
   Elegant navigation dots for Squarespace gallery carousels<br>
   <strong>Lightweight • Responsive • Vanilla JS</strong>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/version-1.0.0-black?style=for-the-badge">
   <img src="https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge">
   <img src="https://img.shields.io/badge/dependency-none-success?style=for-the-badge">
@@ -103,6 +103,6 @@ ss-gallery-carousel-dots/
 
 ---
 
-<p align="center">
+<p align="left">
   Made with ❤️ for Squarespace Developers
 </p>
